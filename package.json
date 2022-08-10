@@ -6,6 +6,9 @@
   "engines": {
     "node": ">=16.6.0"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@voltarbot"
+  },
   "files": [
     "src/**/*"
   ],
